@@ -5,6 +5,12 @@
         "name": "John Brown",
         "age": 32,
         "address": "New York No. 1 Lake Park"
+    },
+    {
+        "id": 2,
+        "name": "Martin",
+        "age": 26,
+        "address": "Australia"
     }
   ]
 }
