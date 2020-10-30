@@ -1,16 +1,11 @@
 {
-  "algos": [
+  "riskMetrics": [
     {
         "id": 1,
-        "name": "John Brown",
-        "age": 32,
-        "address": "New York No. 1 Lake Park"
-    },
-    {
-        "id": 2,
-        "name": "Martin",
-        "age": 26,
-        "address": "Australia"
+        "algoName": "algo_sma_3080",
+        "priceLimit": 32,
+        "volumeLimit": 18809,
+        "pvLimit": 90
     }
   ]
 }
