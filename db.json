@@ -6,6 +6,20 @@
         "priceLimit": 32,
         "volumeLimit": 18809,
         "pvLimit": 90
+    },
+    {
+        "id": 2,
+        "algoName": "algo_sma_354",
+        "priceLimit": 32,
+        "volumeLimit": 24809,
+        "pvLimit": 80
+    },
+    {
+        "id": 3,
+        "algoName": "algo_sma_0510",
+        "priceLimit": 23,
+        "volumeLimit": 2109,
+        "pvLimit": 66
     }
   ]
 }
